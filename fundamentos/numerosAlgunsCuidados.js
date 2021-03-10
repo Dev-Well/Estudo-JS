@@ -1,0 +1,5 @@
+console.log(0.7 + 0.1)
+console.log("Roi" * 1)
+console.log(7 / 0)
+//console.log(10.toString())
+console.log((10.345).toFixed(2))
